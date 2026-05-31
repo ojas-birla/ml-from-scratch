@@ -56,3 +56,4 @@ Match: True
   from loss all the way to weights.
 
 ## References
+Andrej Karpathy - Neural Networks: Zero to Hero
